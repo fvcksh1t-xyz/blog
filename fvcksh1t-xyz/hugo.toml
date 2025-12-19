@@ -1,4 +1,20 @@
 baseURL = 'https://fvcksh1t-xyz.github.io'
 languageCode = 'pt-br'
 title = 'fvcksh1t'
-theme = 'hugo-notepadium'
+theme = 'nojs'
+
+[menus]
+  [[menus.main]]
+    name = 'home'
+    pageRef = '/'
+    weight = 1
+
+  [[menus.main]]
+    name = 'blog'
+    pageRef = '/blog'
+    weight = 2
+
+  [[menus.main]]
+    name = 'about.me'
+    pageRef = '/aboutme'
+    weight = 3
