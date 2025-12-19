@@ -1,0 +1,3 @@
+[submodule "fvcksh1t-xyz/themes/hugo-notepadium"]
+	path = fvcksh1t-xyz/themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
